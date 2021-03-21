@@ -1,2 +1,3 @@
-# Tedarik_Zinciri_Lisans_Bitirme_Tezi-VBAvLingo
- 
+DAĞITIM AĞI TASARIMI, ARAÇ ROTALAMA VE FİLO BÜYÜKLÜĞÜ OPTİMİZASYONU İÇİN BÜTÜNLEŞİK BİR KARAR DESTEK SİSTEMİ GELİŞTİRİLMESİ
+
+Bu çalışmanın amacı, stratejik, taktiksel ve operasyonel seviyeleri eş zamanlı ele alarak bir tedarik zincirindeki farklı fonksiyonları optimize etmek için bütünleşik bir karar destek sistemi geliştirmektir. Üretim ve tedarikçiden satın alma miktarları, rotalama, dağıtım ağı tasarımı, filo büyüklüğü ve kompozisyonu optimizasyon kriterleri olarak kabul edilmiştir. Çok aşamalı tedarik zinciri ağı tasarımı problemi üç farklı optimizasyon kriterini karşılayan alt problemlere bölünmüştür. Geliştirilen matematiksel modeller LINGO programı ile kodlanmış ve bu program Excel içine yerleştirilerek bütünleşik bir karar destek sistemi oluşturulmuştur. Geliştirilen karar destek sistemi ile matematiksel modellerinin birbiriyle entegre çalışarak kullanıcıya hız ve kullanım kolaylığı kazandırması amaçlanmıştır. Matematiksel modeller, örnek bir uygulama ile test edilmiş ve farklı durumlar altında çözülerek alternatif senaryolar elde edilmiştir.  
